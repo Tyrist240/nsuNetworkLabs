@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/maratpash/CLionProjects/seti1/main.cpp
+cstdio
+-
+cstdlib
+-
+iostream
+-
+sys/types.h
+-
+unistd.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+cstring
+-
+arpa/inet.h
+-
+map
+-
+poll.h
+-
+manageData.h
+/Users/maratpash/CLionProjects/seti1/manageData.h
+
+/Users/maratpash/CLionProjects/seti1/manageData.h
+ctime
+-
+map
+-
+iostream
+-
+
